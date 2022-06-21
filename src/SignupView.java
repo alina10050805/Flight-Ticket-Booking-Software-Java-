@@ -1,7 +1,7 @@
 /**
  * class SignupView
  * show the sign up page by GUI
- * @author Xiangyi Lin, Chia-Yun Chen
+ * @author Xiangyi Lin
  * ticket booking software
  */
 

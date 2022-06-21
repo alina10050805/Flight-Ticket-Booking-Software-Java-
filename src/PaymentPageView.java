@@ -1,7 +1,7 @@
 /**
  * class PaymentPageView
  * show the Payment Page by GUI
- * @author Xiangyi Lin, Chia-Yun Chen
+ * @author Xiangyi Lin
  * ticket booking software
  */
 

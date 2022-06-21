@@ -1,7 +1,7 @@
 /**
  * class LoginView
  * show the login page by GUI
- * @author Xiangyi Lin, Chia-Yun Chen
+ * @author Xiangyi Lin
  * ticket booking software
  */
 

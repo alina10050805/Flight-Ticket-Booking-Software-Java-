@@ -1,7 +1,7 @@
 /**
  * class UserAccountReader
  * read the user account information file
- * @author Xiangyi Lin, Chia-Yun Chen
+ * @author Xiangyi Lin
  * ticket booking software
  */
 

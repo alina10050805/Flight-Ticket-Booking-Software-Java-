@@ -1,6 +1,6 @@
 /**
  * main
- * @author Xiangyi Lin, Chia-Yun Chen
+ * @author Xiangyi Lin
  * ticket booking software
  */
 
@@ -12,7 +12,7 @@ public class FinalMain
 	{
 		JFrame frame = new GUIView();
 	    frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-	    frame.setTitle("Jamal Airline");
+	    frame.setTitle("Alina Airline");
 	    frame.setVisible(true);
 	}
 }

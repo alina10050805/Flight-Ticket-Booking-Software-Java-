@@ -1,6 +1,6 @@
 /**
  * class Passenger
- * @author Xiangyi Lin, Chia-Yun Chen
+ * @author Xiangyi Lin
  * ticket booking software
  */
 

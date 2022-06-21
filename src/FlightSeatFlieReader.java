@@ -1,6 +1,6 @@
 /**
  * class FlightSeatFlieReader
- * @author Xiangyi Lin, Chia-Yun Chen
+ * @author Xiangyi Lin
  * ticket booking software
  */
 

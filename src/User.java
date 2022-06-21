@@ -1,3 +1,8 @@
+/**
+ * class User
+ * @author Xiangyi Lin
+ * ticket booking software
+ */
 import java.util.ArrayList;
 import java.util.Arrays;
 

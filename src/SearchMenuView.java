@@ -1,7 +1,7 @@
 /**
  * class SearchMenuView
  * show the search menu page by GUI
- * @author Xiangyi Lin, Chia-Yun Chen
+ * @author Xiangyi Lin
  * ticket booking software
  */
 

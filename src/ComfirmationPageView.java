@@ -1,7 +1,7 @@
 /**
  * class ComfirmationPageView
  * show the Comfirmation Page by GUI
- * @author Xiangyi Lin, Chia-Yun Chen
+ * @author Xiangyi Lin
  * ticket booking software
  */
 
