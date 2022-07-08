@@ -35,4 +35,6 @@ It will show the confirm information after all done.
 
 ![image](https://user-images.githubusercontent.com/75402059/174689720-6d43e0a7-80ab-4578-b258-96cff68cef40.png)
 
+Project finished in 12/3/2020
+
 Thank you!
